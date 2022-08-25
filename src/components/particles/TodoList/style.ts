@@ -16,8 +16,4 @@ export const WrapperTodoDetails = styled.label`
         display: block;
         margin-bottom: 3px;
     }
-    small {
-        color: #222;
-        display: block;
-    }
 `
